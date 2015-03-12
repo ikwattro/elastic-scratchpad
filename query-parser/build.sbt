@@ -1,0 +1,1 @@
+libraryDependencies += "org.elasticsearch" % "elasticsearch" % "1.3.8"
