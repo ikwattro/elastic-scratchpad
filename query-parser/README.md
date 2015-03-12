@@ -56,7 +56,7 @@ public class CustomQueryParserPlugin extends AbstractPlugin {
 }
 ```
 
-For brevity, our custom query parser will simply delegate to QueryStringQueryParser.
+For brevity, our custom query parser will simply delegate to `QueryStringQueryParser`.
 
 *src/main/java/queryparser/CustomQueryParser.java:*
 
